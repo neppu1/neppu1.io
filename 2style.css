@@ -1,0 +1,35 @@
+body {
+	background-color:Bisque;
+}
+
+h1 {
+	float: middle;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+p {
+float: middle;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+img {
+  float: right;
+  margin-top: -250px;
+  margin-bottom: 100px;
+  margin-right: 160px;
+  margin-left: 60px;
+}
+
+a {
+	  float: middle;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 0px;
+  margin-left: 80px;
+}
